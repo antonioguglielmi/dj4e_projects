@@ -35,6 +35,7 @@ INSTALLED_APPS = [
     'autos.apps.AutosConfig',
     'home.apps.HomeConfig',
     'hello.apps.HelloConfig',
+    'cats.apps.CatsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
